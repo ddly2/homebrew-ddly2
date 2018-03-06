@@ -1,8 +1,8 @@
 class Postgresql947 < Formula
   desc "Object-relational database system"
   homepage "https://www.postgresql.org/"
-  url "https://ftp.postgresql.org/pub/source/v9.4.7/postgresql-9.4.7.tar.bz2"
-  sha256 "cc795e6c35b30e697e5891e3056376af685f848a4e67fab1702e74a2385f81e0"
+  url "https://ftp.postgresql.org/pub/source/v9.6.8/postgresql-9.6.8.tar.bz2"
+  sha256 "eafdb3b912e9ec34bdd28b651d00226a6253ba65036cb9a41cad2d9e82e3eb70"
 
   option "without-perl", "Build without Perl support"
   option "without-tcl", "Build without Tcl support"
